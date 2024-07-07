@@ -1,3 +1,8 @@
+*{
+    margin:0;
+}
+
+
 
 nav{
     display:flex;
@@ -263,6 +268,7 @@ footer{
     padding-left: 230px;
     display:flex;
     gap:100px;
+    padding-right: 230px;
 }
 .footer-column{
 width:50%;
