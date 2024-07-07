@@ -46,7 +46,7 @@ nav li a{
     color:#474747;
 }
 .btn{
-    width:150px;
+    width:180px;
     height: 64px;
     background-color: #FD6E0A;
     color:white;
@@ -94,9 +94,6 @@ nav li a{
     color:#181818;
     /* margin-bottom:50px; */
     margin:0;
-}
-.banner-description{
-  
 }
 .banner-photo{
     max-width:584px;
@@ -233,7 +230,7 @@ main{
     border:2px solid #FD6E0A ;
 }
 .button{
-    width: 200px;
+    width: 240px;
     height: 64px;
     background-color: #FD6E0A;
     color:white;
@@ -288,4 +285,5 @@ footer input[type="text"] ,footer input[type="email"],footer textarea{
     height: 56px;
     font-size: 14px;
     color:#474747;
+
 }
