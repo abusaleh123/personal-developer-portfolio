@@ -273,6 +273,7 @@ footer{
 .footer-column{
 width:50%;
 flex-direction: column;
+margin-top:130px;
 
 }
 footer input[type="text"] ,footer input[type="email"],footer textarea{
